@@ -35,23 +35,4 @@ $RECYCLE.BIN/
 # Node.js
 ############################
 
-lib-cov
-lcov.info
-pids
-logs
-results
-results
 node_modules
-.node_history
-
-############################
-# Strapi
-############################
-
-.env
-license.txt
-exports
-*.cache
-dist
-build
-.strapi-updater.json
