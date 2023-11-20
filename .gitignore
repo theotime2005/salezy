@@ -40,6 +40,7 @@ lcov.info
 pids
 logs
 results
+results
 node_modules
 .node_history
 
