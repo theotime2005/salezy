@@ -1,0 +1,2 @@
+### Test categories
+GET http://localhost:1337/api/products
