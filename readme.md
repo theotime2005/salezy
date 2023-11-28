@@ -32,11 +32,15 @@ npm install
 
 Vous pouvez lancer l'API de plusieurs manières :
 
--   En mode développement :
-```bash npm run develop```
+En mode développement :
+```bash
+npm run develop
+```
 
--   En mode normal :
-```bash npm start```
+En mode normal :
+```bash
+npm start
+```
 
 Pour vous connecter à l'interface d'administration, rendez-vous sur la
 page suivante :
