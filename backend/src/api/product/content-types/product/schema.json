@@ -32,6 +32,9 @@
     },
     "quantity": {
       "type": "integer"
+    },
+    "total": {
+      "type": "integer"
     }
   }
 }

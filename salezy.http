@@ -1,0 +1,12 @@
+### Get token
+POST http://localhost:1337/admin/login
+Content-Type: application/json
+
+{
+  "email": "admin@lesmeilleurs.com",
+  "password": "Administration08"
+}
+
+### Get user list
+GET http://localhost:1337/admin/users
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwiaWF0IjoxNzAxMTgyMTk1LCJleHAiOjE3MDM3NzQxOTV9.5TVpTfOJ8e3zKpZA8yrim72U35wj-VYt82D6OhyvrUo
