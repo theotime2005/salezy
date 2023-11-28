@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="description" value="The salezy collection" />
+          <option name="id" value="2687e863-bf8e-42f3-b64c-1c4aa568fdfc" />
+          <option name="name" value="salezy" />
+          <option name="sortWeight" value="1000000" />
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="folderPath" value="$PROJECT_DIR$/.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="7d95477c-368f-4716-b7ce-13c9d09faea7" />
+  </component>
+</project>
