@@ -44,7 +44,7 @@ npm start
 
 Pour vous connecter à l'interface d'administration, rendez-vous sur la
 page suivante :
-<http://localhos:1336/admin>
+<http://localhos:1337/admin>
 Email : admin@lesmeilleurs.com
 Mot de passe : Administration08
 
