@@ -731,6 +731,7 @@ export interface ApiProductProduct extends Schema.CollectionType {
     uid: Attribute.UID<'api::product.product', 'name'>;
     quantity: Attribute.Integer;
     total: Attribute.Integer;
+    image: Attribute.Media;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
